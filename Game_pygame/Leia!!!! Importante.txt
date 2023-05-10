@@ -1,0 +1,3 @@
+Teclas do jogo!!
+Movimentar = Q/E
+Serra = Espaço
